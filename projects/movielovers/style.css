@@ -1,0 +1,52 @@
+body{
+    background: rgb(58,87,180);
+  background: linear-gradient(90deg, rgba(58,87,180,1) 0%, rgba(29,162,253,1) 50%, rgba(69,252,230,1) 100%);
+    
+  }
+  
+  .box{
+    background-color:lightgreen;
+    padding:1em;
+    border: 5px solid magenta;
+    position:absolute;
+    
+  }
+  
+  .banner {
+  background-color: darkblue;
+    padding: 1em;
+    text-align: center; 
+   
+    position: fixed;
+    width: 100%;
+    border: 5px solid yellow;
+    box-sizing: border-box;
+    font-size: 4rem;
+    background-image: url("https://www.vmcdn.ca/f/files/kitchenertoday/images/events/stars.jpeg;w=960");
+    background-clip: text;
+    background-size: 40px;
+    color: transparent;
+  }
+  .clip{
+    position: absolute;
+    top:300px;
+  }
+  
+  .gif{
+    position: absolute;
+    right:0px;
+    bottom:40%;
+  }
+  
+  .john{
+    position:absolute;
+    max-width:70%;
+    height: auto;
+    top:800px;
+  }
+  .pulp{
+    position:absolute;
+    max-width:70%;
+    height: auto;
+    top: 1400px;
+  }
