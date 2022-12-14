@@ -13,8 +13,14 @@ body{
 h1{
     color:lightcoral
 }
+
+h2{
+  color: palegreen;
+}
 p{
     font-family: sans-serif;
+    color:peachpuff;
+    font-size: 150%;
 }
 
 img{
