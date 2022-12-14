@@ -1,0 +1,12 @@
+body{
+    max-width: 25rem;
+    margin: 0 auto;
+    background-color:lightsteelblue
+}
+
+h1{
+    color:lightcoral
+}
+p{
+    font-family: sans-serif;
+}
