@@ -1,0 +1,50 @@
+html {
+    scroll-behavior:smooth;
+  }
+  
+  h{
+    
+    border:5px;
+    color: white;
+    Font-size: 60px;
+    background-color: darkcyan;
+    Font-family :cursive
+  }
+  nav a {
+    color:darkblue;
+  }
+  
+  nav a:hover {
+    color: magenta;
+  }
+  
+  h1{
+    font-family: Papyrus;
+    font-size:30px;
+    background-color:cornflowerblue;
+  }
+  h2{
+    font-family: Papyrus;
+    font-size:30px;
+    background-color: cornflowerblue;
+  }
+  h3{font-family: Papyrus;
+    font-size:30px;
+    background-color: cornflowerblue;
+  }
+  body{
+    max-width:600px;
+    margin:0 auto;
+    padding: 16px;
+    font-family: Arial;    
+  }
+  p{line-height:1.5;
+   font-family:Verdana;
+  }
+  
+  img{max-width: 600px;
+       width: 100%;}
+  footer{
+    text-align: centered;
+    background-color: lightblue;
+  }
